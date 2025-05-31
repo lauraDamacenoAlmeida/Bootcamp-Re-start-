@@ -5,7 +5,7 @@ O objetivo deste repositório é centralizar todos os materiais que passei na au
 Aqui você vai encontrar:
 
 📁 slides/
-➡️ Material com todos os slides onde apresentamos os conceitos do pré-processamento
+➡️ Para acessar os slides [clique aqui](https://drive.google.com/file/d/1d_tbhLJ3T5AH2OEv861Usx1Kz4fu-Zsg/view?usp=sharing)
 
 📁 notebooks/
 ➡️ Códigos usados durante a aula, com exemplos explicadinhos passo a passo.
