@@ -5,7 +5,7 @@ O objetivo deste repositório é centralizar todos os materiais que passei na au
 Aqui você vai encontrar:
 
 📁 slides/
-➡️ Para acessar os slides [clique aqui](https://drive.google.com/file/d/1d_tbhLJ3T5AH2OEv861Usx1Kz4fu-Zsg/view?usp=sharing)
+➡️ Para acessar os slides [clique aqui](https://drive.google.com/file/d/13xUVTMTHCMHDZovF181a5yLf8BM0Hf_h/view?usp=sharing)
 
 📁 notebooks/
 ➡️ Códigos usados durante a aula, com exemplos explicadinhos passo a passo.
